@@ -1,4 +1,4 @@
 # practice
 This is my first repo
 <br>
-Author-Naga Kavya
+Author-Naga Kavya(Gandla)
